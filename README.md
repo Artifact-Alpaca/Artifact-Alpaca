@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Artifact-Alpaca
-- 👀 I’m interested in all sorts cybersecurity, mostly blue hat, detection and platform engineering.
+- 👀 I’m interested in all sorts of cybersecurity, mostly blue hat, detection and platform engineering but also some red hat and AD stuff
 - 🌱 I’m currently learning Python, IaC, detection engineering
 - 💾 Collecting here various projects, and lines of code from daily life and experiments
 
